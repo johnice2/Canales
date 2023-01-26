@@ -227,3 +227,5 @@ http://170.0.233.17:8000/play/a0nf/index.m3u8
 http://170.0.233.19:8000/play/a0fy/index.m3u8
 #EXTINF:-1,80s Hits
 http://170.0.233.19:8000/play/a0fz/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://186.101.207.117:9955/play/a081/index.m3u8
